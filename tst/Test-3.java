@@ -12,6 +12,8 @@ when the country reached a user-defined number when one country argument is give
 package IndividualProject_COVIDApp;
 
 import java.util.*;
+
+
 public class Test {
     
     public static void main(String[] args) throws Exception{
